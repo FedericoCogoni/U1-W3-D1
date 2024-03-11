@@ -45,7 +45,11 @@ const arraySumNumber = arrayRandomNum => {
 }
 console.log(arrayRandomNum)
 console.log("arraySumNumber:", arraySumNumber(arrayRandomNum))
+//non ho più energie in testa per continuare :(
+//non ho più energie in testa per continuare :(
+//non ho più energie in testa per continuare :(
 
+//non ho più energie in testa per continuare :(
 /* ESERCIZIO 5 (reduce)
   Scrivi una funzione per sommare i numeri contenuti in un array
 */
@@ -65,7 +69,8 @@ console.log("-ESERCIZIO 5-")
   Scrivi una funzione per creare un array contenente tutti i valori DISPARI da 1 a 99.
 */
 console.log("-ESERCIZIO 8-")
-/* Questo array di film verrà usato negli esercizi a seguire. Non modificarlo e scorri oltre per riprendere gli esercizi :) */
+/* Questo array di film verrà usato negli esercizi a seguire.
+ Non modificarlo e scorri oltre per riprendere gli esercizi :) */
 const movies = [
   {
     Title: "The Lord of the Rings: The Fellowship of the Ring",
